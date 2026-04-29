@@ -1,35 +1,40 @@
 # Property Management SOPs
 
-Practical Standard Operating Procedures (SOPs), checklists, and workflow templates for property management operations.
+> Practical standard operating procedures, communication templates, and
+> operational checklists for residential property management — built from
+> real-world remote operations experience.
 
-## Purpose
+---
 
-This repository is created to organize repeatable systems that improve efficiency in rental property management, maintenance coordination, tenant communication, leasing support, and vendor management.
+## About This Repository
 
-## Areas Covered
+This repository is a growing library of open operational systems for
+property managers, landlords, leasing teams, and operations professionals
+working in U.S. residential property management.
 
-- Maintenance request handling
-- Tenant communication workflows
-- Leasing and applicant screening
-- Move-in / move-out procedures
-- Vendor coordination
-- Rent follow-up systems
-- Documentation standards
+Every document in this library is:
 
-## Sample SOP List
+- **Practical** — built from real daily operations, not theory
+- **Reusable** — structured to be adapted across portfolios and team sizes
+- **U.S.-focused** — written with American landlord-tenant law context in mind
+- **Ready to use** — copy, customize, and implement immediately
 
-1. Handling tenant maintenance complaints  
-2. Vendor dispatch workflow  
-3. Rent reminder process  
-4. Move-in checklist  
-5. Property inspection reporting  
-6. Lease follow-up communication  
+Whether you manage 5 units or 500, these systems help you standardize
+your operations, protect your properties, and communicate professionally
+with tenants, vendors, and owners.
 
-## Goal
+---
 
-To build reliable open operational systems for property managers, landlords, and small teams.
+## Who This Is For
 
-## Status
+| Role | How This Helps |
+|---|---|
+| **Property managers** | Standardize team workflows and reduce errors |
+| **Independent landlords** | Implement professional systems without a large team |
+| **Virtual assistants** | Support U.S. property management clients with confidence |
+| **Leasing coordinators** | Handle renewals, notices, and applicant communication |
+| **Operations professionals** | Build reusable systems for remote property portfolios |
 
-Actively being developed and expanded.# property-management-sops
-Practical SOPs and workflow templates for property management operations.
+---
+
+## Repository Structure
